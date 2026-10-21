@@ -1,0 +1,16 @@
+SWIFTSHIP DELIVERY ROUTE - LEAST-COST BRANCH AND BOUND
+Cities: 5
+Maximum delivery time: 5.50 hours
+
+Optimal route: A -> C -> E -> D -> B -> A
+
+Route details:
+A -> C | Distance: 15.00 km | Fuel cost: $27.00 | Time: 0.75 hours
+C -> E | Distance: 10.00 km | Fuel cost: $17.00 | Time: 0.50 hours
+E -> D | Distance: 15.00 km | Fuel cost: $34.50 | Time: 1.00 hours
+D -> B | Distance: 25.00 km | Fuel cost: $47.50 | Time: 1.25 hours
+B -> A | Distance: 10.00 km | Fuel cost: $20.00 | Time: 0.50 hours
+
+Total distance: 75.00 km
+Total fuel cost: $146.00
+Total delivery time: 4.00 hours

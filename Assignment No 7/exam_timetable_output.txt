@@ -1,0 +1,10 @@
+UNIVERSITY EXAM TIMETABLE
+
+Math -> Slot 1
+Physics -> Slot 2
+Chemistry -> Slot 3
+Biology -> Slot 1
+English -> Slot 2
+Computer -> Slot 2
+
+Minimum slots used by this greedy ordering: 3

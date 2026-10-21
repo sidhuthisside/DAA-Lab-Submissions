@@ -1,0 +1,11 @@
+SWIFTCARGO DELIVERY ROUTE
+
+Delivery request 1:
+Minimum delivery cost: 7
+Best route: Warehouse -> B -> D -> Customer
+
+Traffic update: Warehouse to B cost changes from 2 to 7.
+
+Delivery request 2 after traffic update:
+Minimum delivery cost: 11
+Best route: Warehouse -> A -> C -> Customer

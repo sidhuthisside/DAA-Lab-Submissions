@@ -1,0 +1,60 @@
+
+Sorted Movies by Rating using Quick Sort:
+
+----------------------------------------------------------------------------------------------------
+Title                                                  Rating    Release Year   Popularity  
+----------------------------------------------------------------------------------------------------
+Killers of the Flower Moon                             7.6       2023           82          
+Dunkirk                                                7.9       2017           86          
+The Revenant                                           8         2015           84          
+The Avengers                                           8.1       2012           95          
+Jurassic Park                                          8.2       1993           90          
+A Beautiful Mind                                       8.2       2001           82          
+Top Gun: Maverick                                      8.2       2022           96          
+Toy Story                                              8.3       1995           89          
+Eternal Sunshine of the Spotless Mind                  8.3       2004           80          
+1917                                                   8.3       2019           85          
+Spider-Man: No Way Home                                8.3       2021           97          
+Memento                                                8.4       2000           84          
+The Dark Knight Rises                                  8.4       2012           92          
+Braveheart                                             8.4       2000           84          
+Joker                                                  8.4       2019           94          
+Avengers: Infinity War                                 8.4       2018           96          
+Avengers: Endgame                                      8.4       2019           98          
+Whiplash                                               8.5       2014           83          
+The Prestige                                           8.5       2006           86          
+Gladiator                                              8.5       2000           91          
+Parasite                                               8.5       2019           87          
+The Lion King                                          8.5       1994           93          
+The Departed                                           8.5       2006           87          
+Django Unchained                                       8.5       2012           88          
+Back to the Future                                     8.5       1985           87          
+Oppenheimer                                            8.5       2023           97          
+Dune: Part Two                                         8.5       2024           93          
+Interstellar                                           8.6       2014           97          
+One Flew Over the Cuckoos Nest                         8.6       1975           78          
+Se7en                                                  8.6       1995           86          
+City of God                                            8.6       2002           79          
+The Silence of the Lambs                               8.6       1991           87          
+Saving Private Ryan                                    8.6       1998           89          
+The Green Mile                                         8.6       1999           88          
+Spirited Away                                          8.6       2001           84          
+Terminator 2: Judgment Day                             8.6       1991           88          
+Inception                                              8.7       2010           96          
+The Empire Strikes Back                                8.7       1980           87          
+The Matrix                                             8.7       1999           93          
+Goodfellas                                             8.7       1990           85          
+Forrest Gump                                           8.8       1994           95          
+Fight Club                                             8.8       1999           90          
+The Lord of the Rings: The Fellowship of the Ring      8.8       2001           91          
+The Good the Bad and the Ugly                          8.8       1966           81          
+Pulp Fiction                                           8.9       1994           92          
+Schindler's List                                       9         1993           88          
+The Lord of the Rings: The Return of the King          9         2003           94          
+The Dark Knight                                        9         2008           99          
+The Godfather                                          9.2       1972           97          
+The Shawshank Redemption                               9.3       1994           98          
+----------------------------------------------------------------------------------------------------
+Total Movies: 50
+Lowest Rating : 7.6
+Highest Rating: 9.3

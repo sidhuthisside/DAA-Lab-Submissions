@@ -1,0 +1,21 @@
+Before traffic update:
+S to S = 0 minutes
+S to A = 3 minutes
+S to B = 2 minutes
+S to C = 8 minutes
+S to D = 10 minutes
+S to H = 11 minutes
+Nearest hospital: D (10 minutes)
+Route: S -> B -> A -> C -> D
+
+Traffic update: S-B changes from 2 to 6 minutes.
+
+After traffic update:
+S to S = 0 minutes
+S to A = 4 minutes
+S to B = 5 minutes
+S to C = 9 minutes
+S to D = 11 minutes
+S to H = 12 minutes
+Nearest hospital: D (11 minutes)
+Updated route: S -> A -> C -> D

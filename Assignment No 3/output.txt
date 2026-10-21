@@ -1,0 +1,22 @@
+Enter number of items: Enter knapsack capacity: Item 1 - Weight: Item 1 - Profit: Item 2 - Weight: Item 2 - Profit: Item 3 - Weight: Item 3 - Profit: Item 4 - Weight: Item 4 - Profit: 
+Items sorted by Profit/Weight Ratio:
+--------------------------------------------------
+Item    Weight      Profit      Ratio       
+--------------------------------------------------
+1       10.00       60.00       6.00        
+2       20.00       100.00      5.00        
+3       30.00       120.00      4.00        
+4       40.00       160.00      4.00        
+
+Filling Knapsack:
+-------------------------------------------------------
+Item    Fraction    Weight Taken    Profit Taken  
+-------------------------------------------------------
+1       1.00        10.00           60.00         
+2       1.00        20.00           100.00        
+3       0.67        20.00           80.00         
+-------------------------------------------------------
+Knapsack Capacity : 50.00
+Total Weight Used : 50.00
+Maximum Profit    : 240.00
+-------------------------------------------------------

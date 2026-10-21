@@ -1,0 +1,9 @@
+DISASTER RELIEF - 0/1 KNAPSACK
+Truck capacity: 10 kg
+Maximum utility: 29
+Selected items:
+FirstAid (1 kg, utility 8)
+Water (4 kg, utility 7)
+Medicine (2 kg, utility 10)
+Food (3 kg, utility 4)
+Total weight: 10 kg
