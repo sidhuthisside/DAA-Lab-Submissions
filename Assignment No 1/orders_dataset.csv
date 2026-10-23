@@ -1,0 +1,10 @@
+Order_ID	Customer_Name	Timestamp	Total_Amount_INR	Status
+ORD1001	Amit Sharma	12:30	1499	Delivered
+ORD1002	Priya Patel	09:15	850.5	Processing
+ORD1003	Rahul Verma	14:45	3200	Shipped
+ORD1004	Sneha Kulkarni	10:00	450	Delivered
+ORD1005	Harshit Pandita	11:20	2100	Delivered
+ORD1006	Neha Gupta	08:45	1150	Processing
+ORD1007	Rohan Joshi	16:10	5400	Shipped
+ORD1008	Ananya Rao	13:05	999	Delivered
+				
